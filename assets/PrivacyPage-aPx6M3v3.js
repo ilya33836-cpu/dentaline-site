@@ -1,0 +1,1 @@
+import{d as e,l as t}from"./index-BpMz6VoF.js";import{t as n}from"./LegalPage-wnRXgMec.js";var r=t();function i(){return(0,r.jsx)(n,{doc:e})}export{i as PrivacyPage};

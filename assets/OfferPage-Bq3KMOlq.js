@@ -1,0 +1,1 @@
+import{l as e,u as t}from"./index-BpMz6VoF.js";import{t as n}from"./LegalPage-wnRXgMec.js";var r=e();function i(){return(0,r.jsx)(n,{doc:t})}export{i as OfferPage};
